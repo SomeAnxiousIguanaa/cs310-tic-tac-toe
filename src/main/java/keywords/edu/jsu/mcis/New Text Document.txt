@@ -1,1 +1,0 @@
- To implement the GUI, your new View should extend the JPanel class, and your Controller should implement the ActionListener interface.
